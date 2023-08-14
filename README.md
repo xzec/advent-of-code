@@ -16,8 +16,8 @@ This is a deno project, so you have to have
 # cd <year>/<day>
 cd 2022/1
 
-deno run --allow-read --watch a.ts
-deno run --allow-read --watch b.ts
+denon -c ../../scripts.config.ts run --allow-read a.ts
+denon -c ../../scripts.config.ts run --allow-read a.ts
 ```
 
 ## Project structure

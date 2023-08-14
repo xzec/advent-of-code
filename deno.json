@@ -1,4 +1,5 @@
 {
+  "importMap": "./import_map.json",
   "compilerOptions": {
     "allowJs": false,
     "lib": ["deno.window"],
